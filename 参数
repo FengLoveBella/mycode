@@ -1,0 +1,15 @@
+camera_parameter : 
+fx_d = 5.8262448167737955e+02;
+fy_d = 5.8269103270988637e+02;
+cx_d = 3.1304475870804731e+02;
+cy_d = 2.3844389626620386e+02;
+
+resolution to virtual camera:
+425,560
+
+the range of depth we assume is 400~4000
+
+the sample data is:
+yaw degree:18 degree per time.(20 pose bin)
+pitch degree: 0 5 10 15 20 25 30
+depth: random(400,4000) 20 
